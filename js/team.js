@@ -9,7 +9,7 @@ const TEAM_MEMBERS = [
   {
     name: "Ankit Bhandari",
     role: "Backend designer",
-    photo: "images/ankit.jpg",
+    photo: "images/ankit.png",
     avatarEmoji: "🎨",
     bio: "Backend development and system design for ResQra."
   },
